@@ -639,8 +639,5 @@
     },
     "testindx": {
         "local": "local_time"
-    },
-    "m3_ax6_acc": {
-        "local": "local_time"
     }
 }
