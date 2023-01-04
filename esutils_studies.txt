@@ -1,0 +1,14 @@
+m2_*
+fusion_*
+hbeh_*
+pacap_*
+uma_*
+atd_*
+covid19_*
+o016_*
+eiporta_*
+bari_*
+platform_demo_*
+ric_*
+test_*
+test_*
