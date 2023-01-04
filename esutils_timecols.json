@@ -636,8 +636,5 @@
     },
     "ric_prod_epro_vas": {
         "local": "date"
-    },
-    "testindx": {
-        "local": "local_time"
     }
 }
