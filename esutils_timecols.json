@@ -636,8 +636,5 @@
     },
     "ric_prod_epro_vas": {
         "local": "date"
-    },
-    "m3_ax6_acc": {
-        "utc": "utc_time"
     }
 }
