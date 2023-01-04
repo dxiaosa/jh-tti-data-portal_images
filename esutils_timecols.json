@@ -638,7 +638,6 @@
         "local": "date"
     },
     "m3_ax6_acc": {
-        "local": "local_time",
         "utc": "utc_time"
     }
 }
