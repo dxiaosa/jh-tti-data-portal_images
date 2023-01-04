@@ -1,1 +1,14 @@
-m2_*/nfusion_*/nhbeh_*/npacap_*/numa_*/natd_*/ncovid19_*/no016_*/neiporta_*/nbari_*/nplatform_demo_*/nric_*/ntest_*/n
+m2_*
+fusion_*
+hbeh_*
+pacap_*
+uma_*
+atd_*
+covid19_*
+o016_*
+eiporta_*
+bari_*
+platform_demo_*
+ric_*
+test_*
+test_*
