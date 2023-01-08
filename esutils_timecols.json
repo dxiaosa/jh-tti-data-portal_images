@@ -669,10 +669,6 @@
         "utc": "utc_timestamp",
         "local": "local_time"
     },
-    "m2_summary_personalized_baseline_0": {
-        "utc": "utc_timestamp",
-        "local": "local_time"
-    },
     "m2_summary_personalizedble_baseline_1": {
         "utc": "utc_timestamp",
         "local": "local_time"
