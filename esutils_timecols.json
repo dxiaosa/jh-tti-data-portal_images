@@ -668,10 +668,6 @@
         "utc": "utc_timestamp",
         "local": "local_time"
     },
-    "m2_summary_personalized_label_0": {
-        "utc": "utc_timestamp",
-        "local": "local_time"
-    },
     "m2_summary_personalizedble_label_1": {
         "utc": "utc_timestamp",
         "local": "local_time"
