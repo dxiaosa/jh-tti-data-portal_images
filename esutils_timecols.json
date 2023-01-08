@@ -637,10 +637,6 @@
     "ric_prod_epro_vas": {
         "local": "date"
     },
-    "m2_summary_personalizedble_anomalyscore_1": {
-        "utc": "utc_timestamp",
-        "local": "local_time"
-    },
     "m2_summary_personalized_anomalyscore_modeling": {
         "utc": "utc_timestamp",
         "local": "local_time"
