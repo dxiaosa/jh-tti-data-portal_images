@@ -645,10 +645,6 @@
         "utc": "utc_timestamp",
         "local": "local_time"
     },
-    "m2_summary_personalized_anomalyscoreheatmap_0": {
-        "utc": "utc_timestamp",
-        "local": "local_time"
-    },
     "m2_summary_personalizedble_anomalyscoreheatmap_1": {
         "utc": "utc_timestamp",
         "local": "local_time"
