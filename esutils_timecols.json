@@ -710,5 +710,8 @@
     },
     "hbeh_personalized_modeling": {
         "local": "local_time"
+    },
+    "hbeh_personalized_prediction": {
+        "local": "local_time"
     }
 }
