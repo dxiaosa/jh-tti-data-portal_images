@@ -707,7 +707,7 @@
         "local": "local_time"
     },
     "hbeh_personalized_modeling": {
-        "local": "magnitude__Bypass {}_data_modeling"
+        "local": "unix_timestamp"
     },
     "hbeh_personalized_prediction": {
         "local": "local_time"
