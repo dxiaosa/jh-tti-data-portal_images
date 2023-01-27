@@ -704,7 +704,6 @@
         "local": "local_time"
     },
     "m2_summary_personalized_prediction": {
-        "utc": "utc_timestamp",
         "local": "local_time"
     },
     "hbeh_personalized_modeling": {
