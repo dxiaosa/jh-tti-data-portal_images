@@ -710,6 +710,6 @@
         "local": "unix_timestamp"
     },
     "hbeh_personalized_prediction": {
-        "local": "local_time"
+        "local": "unix_timestamp"
     }
 }
