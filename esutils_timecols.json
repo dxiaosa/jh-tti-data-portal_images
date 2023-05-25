@@ -711,5 +711,8 @@
     },
     "hbeh_personalized_prediction": {
         "local": "unix_timestamp"
+    },
+    "cpmp_p2x7_empatica_biomarker_temperature": {
+        "local": "timestamp_iso"
     }
 }
