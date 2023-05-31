@@ -723,5 +723,8 @@
     },
     "i8p-mc-oxag_ecg_ecg": {
         "local": "timestamp"
+    },
+    "i8p-mc-oxag_tslr_vitalsigns": {
+        "local": "timestamp"
     }
 }
