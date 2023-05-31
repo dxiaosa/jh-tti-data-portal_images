@@ -720,5 +720,8 @@
     },
     "i8p-mc-oxag_tslr_exposure": {
         "local": "timestamp"
+    },
+    "i8p-mc-oxag_ecg_ecg": {
+        "local": "timestamp"
     }
 }
