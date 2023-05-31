@@ -717,5 +717,8 @@
     },
     "i8p-mc-oxag_vitalpatch_hr": {
         "local": "timestamp"
+    },
+    "i8p-mc-oxag_tslr_exposure": {
+        "local": "timestamp"
     }
 }
