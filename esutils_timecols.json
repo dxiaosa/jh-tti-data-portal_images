@@ -714,5 +714,8 @@
     },
     "cpmp_p2x7_empatica_biomarker_temperature": {
         "local": "timestamp_iso"
+    },
+    "i8p-mc-oxag_vitalpatch_hr": {
+        "local": "timestamp"
     }
 }
