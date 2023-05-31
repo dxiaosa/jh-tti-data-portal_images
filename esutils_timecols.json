@@ -726,5 +726,8 @@
     },
     "i8p-mc-oxag_tslr_vitalsigns": {
         "local": "timestamp"
+    },
+    "i8p-mc-oxag_derived_elevated-hr": {
+        "local": "start_timestamp"
     }
 }
