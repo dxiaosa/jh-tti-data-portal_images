@@ -729,5 +729,8 @@
     },
     "i8p-mc-oxag_derived_elevated-hr": {
         "local": "start_timestamp"
+    },
+    "uma_personalized_modeling": {
+        "local": "timestamp"
     }
 }
