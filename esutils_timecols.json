@@ -732,5 +732,8 @@
     },
     "uma_personalized_modeling": {
         "local": "timestamp"
+    },
+    "cpmp_bp02_hourly_compliance": {
+        "local": "local_date"
     }
 }
