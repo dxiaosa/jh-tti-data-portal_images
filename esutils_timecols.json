@@ -735,5 +735,8 @@
     },
     "cpmp_bp02_hourly_compliance": {
         "local": "local_date"
+    },
+    "cpmp_empatica_biomarker_eda_scl": {
+        "local": "timestamp_iso"
     }
 }
