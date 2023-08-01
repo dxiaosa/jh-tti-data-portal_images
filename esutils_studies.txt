@@ -3,3 +3,4 @@ cpmp_p2x7_*
 gpif_*
 i8p-mc-oxag_*
 cpmp_*
+H60-MC-O017_*
