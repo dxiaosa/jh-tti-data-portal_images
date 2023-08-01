@@ -741,5 +741,8 @@
     },
     "h60mco017_abpm_data": {
         "local": "reading_time"
+    },
+    "h60-mc-o017_aktiia_bp_complete": {
+        "local": "timestamp_local"
     }
 }
