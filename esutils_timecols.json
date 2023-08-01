@@ -738,5 +738,8 @@
     },
     "cpmp_empatica_biomarker_eda_scl": {
         "local": "timestamp_iso"
+    },
+    "h60mco017_abpm_data": {
+        "local": "reading_time"
     }
 }
