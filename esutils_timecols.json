@@ -744,5 +744,8 @@
     },
     "h60-mc-o017_aktiia_bp_complete": {
         "local": "timestamp_local"
+    },
+    "gpif_ax6_acc": {
+        "local": "time"
     }
 }
