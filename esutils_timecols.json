@@ -750,5 +750,8 @@
     },
     "h0p-mc-bp05_embraceplus_compliance_daily": {
         "local": "local_date"
+    },
+    "h0p-mc-bp05_embraceplus_compliance_hourly": {
+        "local": "local_date"
     }
 }
