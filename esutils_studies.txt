@@ -1,7 +1,1 @@
-m2_* fusion_* hbeh_* pacap_* uma_* atd_* covid19_* o016_* eiporta_* bari_* platform_demo_* ric_* 
-cpmp_p2x7_*
-gpif_*
-i8p-mc-oxag_*
-cpmp_*
-H60-MC-O017_*
-h60-mc-o017_*
+m2_* fusion_* hbeh_* pacap_* uma_* atd_* covid19_* o016_* eiporta_* bari_* platform_demo_* ric_* gpif_* i8p-mc-oxag_* cpmp_* H60-MC-O017_* h60-mc-o017_* 
