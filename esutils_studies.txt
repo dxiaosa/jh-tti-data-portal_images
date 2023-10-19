@@ -1,2 +1,3 @@
 m2_* fusion_* hbeh_* pacap_* uma_* atd_* covid19_* o016_* eiporta_* bari_* platform_demo_* ric_* gpif_* i8p-mc-oxag_* cpmp_* h60-mc-o017_* 
 h0p-mc-bp05_*
+h0p-mc-np05_*
