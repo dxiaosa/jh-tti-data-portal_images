@@ -747,5 +747,8 @@
     },
     "gpif_ax6_acc": {
         "local": "time"
+    },
+    "h0p-mc-bp05_embraceplus_compliance_daily": {
+        "local": "local_date"
     }
 }
