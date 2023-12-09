@@ -765,5 +765,8 @@
     },
     "h0p-mc-oa05_embraceplus_compliance_hourly": {
         "local": "local_date"
+    },
+    "uma_personalized_prediction": {
+        "local": "timestamp"
     }
 }
