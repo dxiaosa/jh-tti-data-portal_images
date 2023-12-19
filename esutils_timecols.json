@@ -768,6 +768,7 @@
         "local": "local_date"
     },
     "uma_personalized_prediction": {
-        "local": "timestamp"
+        "local": "timestamp",
+        "utc": "timestamp"
     }
 }
