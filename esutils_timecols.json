@@ -772,5 +772,9 @@
     "uma_personalized_prediction": {
         "local": "timestamp",
         "utc": "timestamp"
+    },
+    "uma_acc_temporal": {
+        "local": "timestamp",
+        "utc": "timestamp"
     }
 }
