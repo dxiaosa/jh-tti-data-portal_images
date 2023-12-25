@@ -776,5 +776,9 @@
     "uma_acc_temporal": {
         "local": "timestamp",
         "utc": "timestamp"
+    },
+    "m2_temporal": {
+        "local": "local_time",
+        "utc": "local_time"
     }
 }
