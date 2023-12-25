@@ -701,7 +701,8 @@
         "local": "local_time"
     },
     "m2_summary_personalized_modeling": {
-        "local": "local_time"
+        "local": "local_time",
+        "utc": "local_time"
     },
     "m2_summary_personalized_prediction": {
         "local": "local_time"
