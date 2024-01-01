@@ -780,5 +780,9 @@
     "m2_temporal": {
         "local": "local_time",
         "utc": "local_time"
+    },
+    "test_index": {
+        "local": "utc_field",
+        "utc": "local_field"
     }
 }
