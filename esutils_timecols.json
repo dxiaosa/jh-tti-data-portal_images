@@ -784,5 +784,9 @@
     "test_index": {
         "local": "utc_field",
         "utc": "local_field"
+    },
+    "multistage_data": {
+        "local": "local_time",
+        "utc": "local_time"
     }
 }
