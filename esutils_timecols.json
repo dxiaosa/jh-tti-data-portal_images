@@ -788,5 +788,9 @@
     "multistage_data": {
         "local": "local_time",
         "utc": "local_time"
+    },
+    "spc_multistage": {
+        "local": "local_time",
+        "utc": "local_time"
     }
 }
