@@ -791,7 +791,7 @@
     },
     "spc_multistage": {
         "local": "local_time",
-        "utc": "local_time"
+        "utc": "utc_time"
     },
     "spc_personalized_modeling": {
         "local": "local_time",
