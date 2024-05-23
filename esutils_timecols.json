@@ -800,5 +800,9 @@
     "spc_personalized_prediction": {
         "local": "local_time",
         "utc": "local_time"
+    },
+    "uma_fall": {
+        "local": "local_time",
+        "utc": "utc_time"
     }
 }
