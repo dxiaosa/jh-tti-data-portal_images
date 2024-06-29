@@ -334,7 +334,8 @@
         "local": "local_time"
     },
     "uma_acc": {
-        "utc": "timestamp"
+        "local": "local_time",
+        "utc": "utc_time"
     },
     "uma_gyro": {
         "utc": "timestamp"
