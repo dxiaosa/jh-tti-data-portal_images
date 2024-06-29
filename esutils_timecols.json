@@ -338,7 +338,8 @@
         "utc": "utc_time"
     },
     "uma_gyro": {
-        "utc": "timestamp"
+        "local": "local_time",
+        "utc": "utc_time"
     },
     "uma_mag": {
         "utc": "timestamp"
