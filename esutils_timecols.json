@@ -334,7 +334,7 @@
         "local": "local_time"
     },
     "uma_acc": {
-        "local": "local_time",
+        "local": "utc_time",
         "utc": "utc_time"
     },
     "uma_gyro": {
