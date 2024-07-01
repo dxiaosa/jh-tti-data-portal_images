@@ -338,7 +338,7 @@
         "utc": "utc_time"
     },
     "uma_gyro": {
-        "local": "local_time",
+        "local": "utc_time",
         "utc": "utc_time"
     },
     "uma_mag": {
