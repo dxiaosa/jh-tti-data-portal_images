@@ -806,5 +806,9 @@
     "uma_fall": {
         "local": "local_time",
         "utc": "utc_time"
+    },
+    "uma_acc_id2": {
+        "local": "utc_time",
+        "utc": "utc_time"
     }
 }
