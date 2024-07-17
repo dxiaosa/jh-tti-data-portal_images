@@ -826,5 +826,9 @@
     "uma_acc_id4": {
         "local": "utc_time",
         "utc": "utc_time"
+    },
+    "uma_gyro_id4": {
+        "local": "utc_time",
+        "utc": "utc_time"
     }
 }
