@@ -342,7 +342,7 @@
         "utc": "utc_time"
     },
     "uma_mag": {
-        "local": "Unnamed: 0",
+        "local": "utc_time",
         "utc": "utc_time"
     },
     "atd_acc": {
