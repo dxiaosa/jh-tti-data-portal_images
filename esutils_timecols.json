@@ -867,5 +867,9 @@
     "uma_mag_sid1": {
         "local": "utc_time",
         "utc": "utc_time"
+    },
+    "uma_acc_sid4": {
+        "local": "utc_time",
+        "utc": "utc_time"
     }
 }
