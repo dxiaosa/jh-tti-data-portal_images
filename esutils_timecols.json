@@ -736,8 +736,8 @@
         "local": "start_timestamp"
     },
     "uma_personalized_modeling": {
-        "local": "timestamp",
-        "utc": "timestamp"
+        "local": "utc_time",
+        "utc": "utc_time"
     },
     "cpmp_bp02_hourly_compliance": {
         "local": "local_date"
